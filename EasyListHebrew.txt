@@ -1428,4 +1428,5 @@ zap.co.il##.BannerBox
 zap.co.il##.Martef
 zap.co.il##.headerBannerCenter
 zap.co.il##.leftSideBanner
+adlock.com###banner_full
 !
