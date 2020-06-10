@@ -420,6 +420,8 @@
 ||globes.co.il/ga.asp$~third-party
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||s3.amazonaws.com^$script,domain=globes.co.il
+globes.co.il###overlayAdb
+globes.co.il###pianoBottomBanner
 ! * Calcalist * !
 ||www.calcalist.co.il^$websocket,~third-party,domain=www.calcalist.co.il
 !
